@@ -1,8 +1,0 @@
-C:\Users\KyrieQi\Arbitrum-rust-colearning-Kyrie\level2-balance-query\target\debug\deps\mime-71952044ed9caabf.d: C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\lib.rs C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\parse.rs
-
-C:\Users\KyrieQi\Arbitrum-rust-colearning-Kyrie\level2-balance-query\target\debug\deps\libmime-71952044ed9caabf.rlib: C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\lib.rs C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\parse.rs
-
-C:\Users\KyrieQi\Arbitrum-rust-colearning-Kyrie\level2-balance-query\target\debug\deps\libmime-71952044ed9caabf.rmeta: C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\lib.rs C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\parse.rs
-
-C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\lib.rs:
-C:\Users\KyrieQi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mime-0.3.17\src\parse.rs:
