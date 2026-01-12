@@ -1,0 +1,11 @@
+[package]
+name = "gas_estimation"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ethers = "2.0"
+tokio = { version = "1", features = ["full"] }
+[[bin]]
+name = "gas"
+path = "gas.rs"
